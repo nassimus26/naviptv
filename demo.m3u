@@ -1,35 +1,9 @@
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVCountryBoyKidsVideo.us" tvg-logo="https://i.imgur.com/p14DjHo.png" group-title="Kids",Bumblebee TV Country Boy Kids Video (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Bumblebee TV Cute Zone (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVFGTV.us" tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",Bumblebee TV FGTV (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVFunZone.us" tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Bumblebee TV Fun Zone (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVGiggleZone.us" tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Kids",Bumblebee TV Giggle Zone (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLegoToons.us" tvg-logo="https://i.imgur.com/dxHOu8m.png" group-title="Kids",Bumblebee TV Lego Toons (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLetsPlayMinecraft.us" tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="Kids",Bumblebee TV Lets Play Minecraft (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMasterBuilder.us" tvg-logo="https://i.imgur.com/KQsAdB4.png" group-title="Kids",Bumblebee TV Master Builder (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVToyZone.us" tvg-logo="https://i.imgur.com/uRxkOD1.jpg" group-title="Kids",Bumblebee TV Toy Zone (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-logo="https://i.imgur.com/bivTSji.png" group-title="Kids",HappyKids Junior (720p)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids",Koogi TV (1080p)
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
-https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/UgDTRNv.png" group-title="Kids",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/3ef4hDJ.png" group-title="Kids",MBC 3 USA (1080p)
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MondoKids.it" tvg-logo="https://i.imgur.com/g7GXmFY.png" group-title="Kids",Mondo TV Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
@@ -37,8 +11,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Kids",NCM Educational & Kids Channel
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 #####  FRANCE #####
-#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="France",7ALimoges
-https://ythls.onrender.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="A12TV.fr" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="France",A12 TV
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="France",ADN TV+
